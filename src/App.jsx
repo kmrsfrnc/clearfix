@@ -1,5 +1,6 @@
 import React from 'react';
 import ContentEditable from 'react-contenteditable';
+import { DiGithub } from 'react-icons/di';
 
 import * as tools from './components/tools';
 
@@ -72,6 +73,14 @@ class App extends React.Component {
             })
           }
         </main>
+        <footer>
+          <a href="http://github.com/kmrsfrnc/clearfix">
+            <DiGithub />
+          </a>
+          <small>
+            &copy; 2019
+          </small>
+        </footer>
       </div>
     );
   }
