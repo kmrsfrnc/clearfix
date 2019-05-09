@@ -38,7 +38,7 @@ class App extends React.Component {
             !value && (
               <div className="app-examples">
                 <h3>Examples</h3>
-                <ul className="example" >
+                <ul className="example">
                   {
                      [
                        '1024 : x = 3 : 2',
