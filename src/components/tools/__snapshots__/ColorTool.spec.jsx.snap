@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorTool parses color by hex 1`] = `
+<div>
+  <h2>
+    Color
+  </h2>
+  <div
+    className="color-tool"
+  >
+    <div
+      className="color-tool__sample"
+      style={
+        Object {
+          "backgroundColor": "#F5F5F5",
+        }
+      }
+    />
+    <div
+      className="color-tool__values"
+    >
+      <InputValue>
+        rgb(245,245,245)
+      </InputValue>
+      <InputValue>
+        hsl(0, 0%, 96.1%)
+      </InputValue>
+      <InputValue>
+        #F5F5F5
+      </InputValue>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ColorTool parses color by name 1`] = `
+<div>
+  <h2>
+    Color
+  </h2>
+  <div
+    className="color-tool"
+  >
+    <div
+      className="color-tool__sample"
+      style={
+        Object {
+          "backgroundColor": "#F5F5F5",
+        }
+      }
+    />
+    <div
+      className="color-tool__values"
+    >
+      <InputValue>
+        rgb(245,245,245)
+      </InputValue>
+      <InputValue>
+        hsl(0, 0%, 96.1%)
+      </InputValue>
+      <InputValue>
+        #F5F5F5
+      </InputValue>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ColorTool parses color by rgb 1`] = `
+<div>
+  <h2>
+    Color
+  </h2>
+  <div
+    className="color-tool"
+  >
+    <div
+      className="color-tool__sample"
+      style={
+        Object {
+          "backgroundColor": "#F5F5F5",
+        }
+      }
+    />
+    <div
+      className="color-tool__values"
+    >
+      <InputValue>
+        rgb(245,245,245)
+      </InputValue>
+      <InputValue>
+        hsl(0, 0%, 96.1%)
+      </InputValue>
+      <InputValue>
+        #F5F5F5
+      </InputValue>
+    </div>
+  </div>
+</div>
+`;

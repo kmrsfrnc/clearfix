@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clipboardable matches snapshot 1`] = `
+<WithStyles(Tooltip)
+  open={false}
+  placement="right"
+  title="Copied"
+>
+  <ClipboardButton
+    data-clipboard-text="test"
+    onClick={[Function]}
+    onSuccess={[Function]}
+  >
+    test
+  </ClipboardButton>
+</WithStyles(Tooltip)>
+`;

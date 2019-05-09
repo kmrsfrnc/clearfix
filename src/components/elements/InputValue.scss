@@ -1,0 +1,12 @@
+.input-value {
+  margin-bottom: 0.5em;
+
+  input {
+    border-radius: 4px 0 0 4px;
+    border-right: 0;
+  }
+
+  button {
+    border-radius: 0 4px 4px 0;
+  }
+}

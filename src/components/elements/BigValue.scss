@@ -1,0 +1,11 @@
+.big-value {    
+  font-size: 60px;
+
+  &__prefix {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: italic;
+    color: rgba(0,0,0,.15);
+  }
+}

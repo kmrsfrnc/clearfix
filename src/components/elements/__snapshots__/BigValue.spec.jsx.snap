@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BigValue matches snapshot 1`] = `
+<div
+  className="big-value"
+>
+  <span
+    className="big-value__prefix"
+  >
+    mock prefix
+  </span>
+  <Clipboardable
+    component="span"
+    value="test"
+  >
+    <strong
+      className="clickable"
+    >
+      test
+    </strong>
+  </Clipboardable>
+</div>
+`;
